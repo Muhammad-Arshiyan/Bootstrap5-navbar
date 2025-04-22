@@ -13,7 +13,7 @@ This project demonstrates a fully responsive navigation bar built with **Bootstr
 
 ## 📸 Screenshot
 
-![Navbar Screenshot](screenshot.png)  
+![Image](https://github.com/user-attachments/assets/dd4a709c-4c27-4137-bddd-ceab505a307b) 
 <sub>*(Add your own screenshot above for better visuals)*</sub>
 
 ## 🧱 Technologies Used
