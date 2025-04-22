@@ -8,7 +8,6 @@ This project demonstrates a fully responsive navigation bar built with **Bootstr
 
 - ✅ Built with **Bootstrap 5**
 - 📱 Fully responsive design
-- 🌙 Dark mode friendly
 - 🔍 Mobile menu toggle
 - 💻 Easy to customize
 
